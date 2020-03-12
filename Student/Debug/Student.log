@@ -1,0 +1,5 @@
+﻿  function.cpp
+c:\users\87776\desktop\student\student\student\function.cpp(32): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\87776\desktop\student\student\student\function.cpp(69): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\87776\desktop\student\student\student\function.cpp(105): warning C4018: “<”: 有符号/无符号不匹配
+  Student.vcxproj -> C:\Users\87776\Desktop\Student\Student\Debug\Student.exe
